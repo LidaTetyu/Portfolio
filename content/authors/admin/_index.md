@@ -64,7 +64,7 @@ work:
     company_name: Viatris
     company_url: 'https://www.viatris.com/en'
     company_logo: 'https://www.viatris.com/-/media/project/common/viatris/viatris-logo_withouttm.svg?iar=0&hash=630448133F8685EA2C5E2D6052A8E1F6'
-    date_start: '2023'
+    date_start: 2023-11-01
     date_end: ''
     summary: |2-
       Responsibilities include:
