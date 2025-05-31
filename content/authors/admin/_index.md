@@ -120,43 +120,34 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Russian
     percent: 75
-  - name: Portuguese
+  - name: Spanish
     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+Other Achievements:
+  - title: Alteryx Designer Advanced Certification
+    url: https://www.credly.com/users/lida-tetyusheva
+    date: 'Oct. 2024'
+    awarder: Credly
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Demonstrates my understanding of higher-level concepts and my ability to apply them to more complex applications using a wider breadth of tools.   
+  - title: Best Stastical Analysis
+    date: 'May 2023'
+    awarder: ASA Datafest
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Worked in a 3-person team to perform analysis on real world data provided by the American Bar Association (ABA). Used clustering methods, sentiment analysis, and other statistical methods to provide insight on how the ABA can improve their hiring of pro bono lawyers to better serve clientele.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm an analyst working with pharmaceutical data at Viatris and pursuing a Master’s in Data Science at Northwestern. I am constantly learning and applying advanced analytics to drive insights in the healthcare space. Outside of work, I am exploring ways to merge analytics with my lifelong passion for dance, pushing the limits of my creativity.
+
+Current Tools: Tableau, Power BI, Alteryx, Microsoft Fabric
+Currently Learning: AI Integration/ML
+
+Always excited to discuss personal projects and all things analytics, so let's connect!
