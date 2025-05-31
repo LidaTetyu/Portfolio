@@ -1,17 +1,14 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Lida Tetyusheva
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Lida
+last_name: Tetyusheva
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💃🏻
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,92 +17,71 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Data Analyst and Dance Instructor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Viatris
+    url: https://www.viatris.com/en
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:lidatetyusheva@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/lidabug123/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/LidaTetyu
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/lida-tetyusheva
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Latin/Ballroom/Heels Dancing
+  - Data Science
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Masters in Data Science
+    institution: Northwestern University - School of Professional Studies
+    date_start: 2025
+    date_end: Est. 2027
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Coursework focusing on Analytics Management and Artificial Intelligence
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Statistics and Informatics
+    institution: University of Illinois - Urbana/Champaign
+    date_start: 2021
+    date_end: 2023
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.48/4.0
+
+      Coursework focused on Statistical Methods, Statistical Programming, Data Visualization and Data Analysis. 
+  
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Senior Specialist in Portfolio Analytics
+    company_name: Viatris
+    company_url: 'https://www.viatris.com/en'
+    company_logo: 'https://www.viatris.com/-/media/project/common/viatris/viatris-logo_withouttm.svg?iar=0&hash=630448133F8685EA2C5E2D6052A8E1F6'
+    date_start: Nov. 2023
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Utilizing Alteryx and Tableau to provide data insights across multiple departments. 
+      - Implementing AI into market research and data analysis
+      - Part of a team that averages 50+ ad-hoc requests on a monthly basis with a turnaround range of 15 mins to 48 hours. 
+      - Conducting market research to assist with portfolio development. 
+      - Scraping, combining, cleaning, and analyzing data from multiple sources to generate usable data for insights.
+      - Analyzing data for the EmpoWer ERG Membership Committee.
+  - position: Latin/Heels Instructor
+    company_name: Self-Employed
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 
+    date_end: 
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
