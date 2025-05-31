@@ -64,7 +64,7 @@ work:
     company_name: Viatris
     company_url: 'https://www.viatris.com/en'
     company_logo: 'https://www.viatris.com/-/media/project/common/viatris/viatris-logo_withouttm.svg?iar=0&hash=630448133F8685EA2C5E2D6052A8E1F6'
-    date_start: '2023.11.01'
+    date_start: '2023'
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -132,12 +132,12 @@ languages:
 Other Achievements:
   - title: Alteryx Designer Advanced Certification
     url: https://www.credly.com/users/lida-tetyusheva
-    date: 'Oct. 2024'
+    date: '2024'
     awarder: Credly
     summary: |
       Demonstrates my understanding of higher-level concepts and my ability to apply them to more complex applications using a wider breadth of tools.   
   - title: Best Stastical Analysis
-    date: 'May 2023'
+    date: '2023'
     awarder: ASA Datafest
     summary: |
       Worked in a 3-person team to perform analysis on real world data provided by the American Bar Association (ABA). Used clustering methods, sentiment analysis, and other statistical methods to provide insight on how the ABA can improve their hiring of pro bono lawyers to better serve clientele.
