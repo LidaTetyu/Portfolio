@@ -52,8 +52,8 @@ education:
 
   - area: Statistics and Informatics
     institution: University of Illinois - Urbana/Champaign
-    date_start: 2021
-    date_end: 2023
+    date_start: '2021'
+    date_end: '2023'
     summary: |
       GPA: 3.48/4.0
 
@@ -64,7 +64,7 @@ work:
     company_name: Viatris
     company_url: 'https://www.viatris.com/en'
     company_logo: 'https://www.viatris.com/-/media/project/common/viatris/viatris-logo_withouttm.svg?iar=0&hash=630448133F8685EA2C5E2D6052A8E1F6'
-    date_start: Nov. 2023
+    date_start: 'Nov. 2023'
     date_end: ''
     summary: |2-
       Responsibilities include:
