@@ -45,15 +45,15 @@ interests:
 education:
   - area: Masters in Data Science
     institution: Northwestern University - School of Professional Studies
-    date_start: '2025'
-    date_end: 'Est. 2027'
+    date_start: '2025.04.01'
+    date_end: ''
     summary: |
       Coursework focusing on Analytics Management and Artificial Intelligence
 
   - area: Statistics and Informatics
     institution: University of Illinois - Urbana/Champaign
-    date_start: '2021'
-    date_end: '2023'
+    date_start: '2021.08.01'
+    date_end: '2023.05.01'
     summary: |
       GPA: 3.48/4.0
 
@@ -132,12 +132,12 @@ languages:
 Other Achievements:
   - title: Alteryx Designer Advanced Certification
     url: https://www.credly.com/users/lida-tetyusheva
-    date: '2024'
+    date: '2024.10.22'
     awarder: Credly
     summary: |
       Demonstrates my understanding of higher-level concepts and my ability to apply them to more complex applications using a wider breadth of tools.   
   - title: Best Stastical Analysis
-    date: '2023'
+    date: '2023.05.01'
     awarder: ASA Datafest
     summary: |
       Worked in a 3-person team to perform analysis on real world data provided by the American Bar Association (ABA). Used clustering methods, sentiment analysis, and other statistical methods to provide insight on how the ABA can improve their hiring of pro bono lawyers to better serve clientele.
